@@ -1,4 +1,4 @@
-### Python, Django web-developer 👩‍💻Trying out Java
+### Java, Selenide AQA engineer 👩‍💻
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
